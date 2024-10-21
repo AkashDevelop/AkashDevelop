@@ -2,7 +2,8 @@
 <h1 align="Center"> Hi there 👋 </h1>
 
 <h1 align="Center"> My name is Akash , I'm intrested in all things Python & Data Science!  </h1>
-<img align="right" alt="Coding" width="400" src="https://github.com/samadpls/Programing-Gifs/blob/main/static/gifs/programming.gif">
+
+<img align="right" alt="Coding" width="400" src="https://github.com/samadpls/Programing-Gifs/blob/main/static/gifs/pic5.gif">
 
 
 
