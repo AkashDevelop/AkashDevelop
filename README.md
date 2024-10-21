@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="360" src="https://github.com/samadpls/Programing-Gifs/blob/main/static/gifs/pic5.gif">
 
- <p align="left"> 🔭 Pursuing projects related to data science, focusing on real-world applications.</p>
+ <p align="left"> 🔭 Pursuing projects related to data science, focusing on real-world problems.</p>
   
 <p align="left"> 🌱 I’m currently learning machine learning and AI algorithms.</p>
   
