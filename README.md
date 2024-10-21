@@ -5,11 +5,12 @@
 
 <img align="right" alt="Coding" width="360" src="https://github.com/samadpls/Programing-Gifs/blob/main/static/gifs/pic5.gif">
 
-- 🔭 Pursuing projects related to data science, focusing on real-world applications.
+ <p align="left"> 🔭 Pursuing projects related to data science, focusing on real-world applications.</p>
   
-- 🌱 I’m currently learning machine learning and AI algorithms.
+<p align="left"> 🌱 I’m currently learning machine learning and AI algorithms.</p>
   
-- 👨‍💻 All of my projects are available at [Akash's Project](https://github.com/AkashDevelop?tab=repositories)
+ 👨‍💻 All of my projects are available at  [Akash's Project](https://github.com/AkashDevelop?tab=repositories) 
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
