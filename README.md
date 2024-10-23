@@ -3,7 +3,7 @@
 
 <h1 align="Center"> My name is Akash , I'm intrested in all things Python & Data Science!  </h1>
 
-<img align="right" alt="Coding" width="370" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif?raw=true">
+<img align="right" alt="Coding" width="330" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif?raw=true">
 
  <p align="left"> 🔭 Pursuing projects related to data science, focusing on real-world problems.</p>
   
