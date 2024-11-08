@@ -1,7 +1,7 @@
 
 <p align="center"><img width="1000" src="https://git-profile-readme-banner.vercel.app/api/python?username=Akash&txt=Aspiring%20Data%20Scientist"></p>
 
-<h1 align="Center"> My name is Akash , I'm intrested in all things Python & Data Science!  </h1>
+<h1 align="Center"> Hey there! A Python & Data Science enthusiast here, diving into all things data-driven!  </h1>
 
 <img align="right" alt="Coding" width="330" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif?raw=true">
 
