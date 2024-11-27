@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://git-profile-readme-banner.vercel.app/api/python?username=Akash&txt=Turning%20Data%20into%20Insights!" width="100%" alt="Profile Banner">
+  <img src="https://git-profile-readme-banner.vercel.app/api/python?username=Akash&txt=Aspiring%20Data%20Scientist!" width="100%" alt="Profile Banner">
 </p>
 
 <h1 align="center" style="color: #4CAF50; font-family: Verdana, Geneva, sans-serif;">
