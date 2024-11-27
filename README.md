@@ -6,7 +6,7 @@
   Hi, I'm Akash! 👋
 </h1>
 <h3 align="center" style="color: #1E90FF;">
-  Data Science Enthusiast | Python Developer | Visual Storyteller
+  Data Science Enthusiast | ML Algorithms | ComputerVision
 </h3>
 
 <img align="right" alt="Coding" width="300" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif?raw=true">
