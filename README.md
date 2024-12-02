@@ -53,7 +53,7 @@ An innovative project that combines **AI** and **computer vision** to deliver re
   <img src="https://img.shields.io/badge/OpenCV-23001c?style=flat&logo=opencv&logoColor=white">
   <img src="https://img.shields.io/badge/Deep%20Learning-9b2af4?style=flat&logo=TensorFlow&logoColor=white">
  
-**🔗 [Explore My Project](https://github.com/AkashDevelop?tab=repositories)**
+**🔗<p align="center"> ╰┈➤ [Explore My Project](https://github.com/AkashDevelop?tab=repositories)  ** 📌 </p>
 
 ---
 
